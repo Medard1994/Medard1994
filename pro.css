@@ -1,0 +1,55 @@
+*nav{
+        padding: 10;
+        background-color: white;
+        box-shadow: 0px,0px,10px;
+    
+    
+    }
+    first-section{
+        box-shadow: 0px;0px;10px;
+        background-coler: white feConvolveMatrix;
+    }
+    
+    ul {
+        list-style-type: none;
+        display: flex;
+    
+    }
+    
+    ul li a {
+        text-decoration: none;
+        padding: 35px;
+        color: black;
+    }
+    
+    .middlesecction{
+        padding: 10px;
+        text-decoration: none;
+        position: center;
+    }
+    
+    #login{
+        color:aqua;;
+        border: 20px;
+        width: 90px;
+        height: 35px;
+        border: 1px solid aqua;
+     
+    
+    
+    }
+    
+    #p1 {
+        font-size: 40px;
+        text-align: center;
+     
+    }
+    
+    #p2 {
+        font-size: 14px;
+        text-align: center;
+        color: gray;
+    }
+    
+    
+    

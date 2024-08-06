@@ -1,0 +1,22 @@
+*nav{
+    margin: 0,
+}
+   div section1{
+    background-color: white;
+    display: flex;
+    width: 100%;
+    position: fixed;
+    padding: 10px;
+    box-shadow: cadetblue 0px 0px 10px;
+}
+div section2{background-color: white;
+    display: flex;
+    width: 100%;
+    position: fixed;
+    padding: 10px;
+}
+button class{
+    color: aqua,;
+}
+
+}

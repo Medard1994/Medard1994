@@ -1,0 +1,58 @@
+*{
+    margin: 0,
+    padding 0;
+}
+NAV{
+    background-color: white;
+    display: flex;
+    width: 100%;
+    position: fixed;
+    padding: 10px;
+    box-shadow: cadetblue 0px 0px 10px;
+}
+.first-section p{
+    color: #55186f;
+    font-weight: bold;
+}
+
+.section1 .acme{
+    color: white;
+    background-color: #55186f;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: semibold;
+}
+.section2 i{
+    padding: 10px;
+    position: absolute;
+    margin-left: 90px;
+    text-align: right;
+}
+.section3{
+    display: flex;
+    justify-content: space-between;
+    align-items: right;
+    margin-left: 100px;
+    padding: 10px
+}
+.secton3 p{
+    margin-left: 40px;
+}
+.secton3 .icons .fa{
+    margin-left: 30px;
+    padding: 10px;
+}.section4{
+    background-color: #55186f;
+    width: 100px;
+    height: 100vh;
+    position: fixed;
+    margin-top: 70px;
+}
+.section4 span a{
+    color: white;
+}
+.section4 span{
+    padding: 10px,
+    display:brock,
+    text
+}
