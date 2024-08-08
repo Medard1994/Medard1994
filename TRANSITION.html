@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>medard</title>
+    <style>
+        .leording{
+            height: 100px;
+        width: 100px;
+        border-radius: 300px;
+        background-color: rgb(188, 231, 224);
+        pointer-events: none;
+    }
+        body{
+            background: linear-gradient(red,brown ,black)
+        }
+            div{
+        height: 100px;
+        width: 100px;
+        border-radius: 3px;
+        transition: width 2s; height: 2s;
+        background-color: rgb(188, 231, 224);
+        animation-name: mahama;
+        position: relative;
+        animation-duration: 4s;
+        animation-iteration-count: 2;
+    }
+    @keyframes mahama{
+        0%{
+            background-color: brown;
+            left: 0;
+            top: 0;
+        }
+        25%{
+            background-color: black;
+            left: 200px;
+            top: 0px;
+        }
+        50%{
+            background-color: rgb(89, 42, 165);
+            left: 200px;
+            top: 200px;
+        }
+        75%{
+            background-color:brown;
+            left: 0px;
+            top: 200px; 
+        }
+        100%{
+            background-coler: red;
+            top: 0px;
+            left: 0px; 
+        }
+    }
+    div:hover{
+        width: 300px;
+        height: 300px;
+    }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>kuemera Umwami muriww</h1>
+        <p>kuba hamwe mumwuka</p>
+        </div>
+</body>
+<h2>how to leording</h2>
+<div class="leording"></div>
+</html>
